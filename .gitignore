@@ -1,4 +1,18 @@
+# Adding config.py file.
+api_keys.py
+
+# .DS_Store
+.DS_Store
+
+# Editor
+.vscode
+
+# PySpark
+metastore/
+metastore_db/
+
 # Byte-compiled / optimized / DLL files
+.pytest_cache/
 __pycache__/
 *.py[cod]
 *$py.class
