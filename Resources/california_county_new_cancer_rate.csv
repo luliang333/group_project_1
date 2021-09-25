@@ -1,0 +1,59 @@
+Area,County,Cancer Type,Year,Sex,Age-Adjusted Rate,Case Count,Population
+California,Mono County,All Types of Cancer,2014-2018,Male and Female,291.3,256,71241
+California,Sierra County,All Types of Cancer,2014-2018,Male and Female,319.9,84,14907
+California,Siskiyou County,All Types of Cancer,2014-2018,Male and Female,354.5,1251,217140
+California,Modoc County,All Types of Cancer,2014-2018,Male and Female,357.7,258,44761
+California,Tulare County,All Types of Cancer,2014-2018,Male and Female,370.3,7700,2298431
+California,Mariposa County,All Types of Cancer,2014-2018,Male and Female,372.1,578,87611
+California,Kings County,All Types of Cancer,2014-2018,Male and Female,374.7,2417,750009
+California,Colusa County,All Types of Cancer,2014-2018,Male and Female,377.3,438,106900
+California,Los Angeles County,All Types of Cancer,2014-2018,Male and Female,377.3,201547,50408813
+California,Merced County,All Types of Cancer,2014-2018,Male and Female,380.6,4625,1343647
+California,Del Norte County,All Types of Cancer,2014-2018,Male and Female,382.5,680,136838
+California,Santa Clara County,All Types of Cancer,2014-2018,Male and Female,382.7,39041,9601253
+California,Lassen County,All Types of Cancer,2014-2018,Male and Female,384.8,662,155179
+California,Alameda County,All Types of Cancer,2014-2018,Male and Female,385.9,34463,8220232
+California,Alpine County,All Types of Cancer,2014-2018,Male and Female,386.4,30,5404
+California,Monterey County,All Types of Cancer,2014-2018,Male and Female,390.8,8614,2161464
+California,Imperial County,All Types of Cancer,2014-2018,Male and Female,391.5,3455,900262
+California,Madera County,All Types of Cancer,2014-2018,Male and Female,392.1,3152,773293
+California,Fresno County,All Types of Cancer,2014-2018,Male and Female,392.9,18253,4884073
+California,San Francisco County,All Types of Cancer,2014-2018,Male and Female,394.5,20164,4344008
+California,San Benito County,All Types of Cancer,2014-2018,Male and Female,395.4,1212,296897
+California,Sutter County,All Types of Cancer,2014-2018,Male and Female,398.3,2172,478354
+California,San Bernardino County,All Types of Cancer,2014-2018,Male and Female,400,40459,10664250
+California,Yolo County,All Types of Cancer,2014-2018,Male and Female,400,4092,1074657
+California,Riverside County,All Types of Cancer,2014-2018,Male and Female,403.1,51747,11902812
+California,Calaveras County,All Types of Cancer,2014-2018,Male and Female,405.9,1607,226337
+California,Kern County,All Types of Cancer,2014-2018,Male and Female,406.7,16057,4407177
+California,Tuolumne County,All Types of Cancer,2014-2018,Male and Female,408,1850,269599
+California,Orange County,All Types of Cancer,2014-2018,Male and Female,410.4,72443,15791065
+California,Nevada County,All Types of Cancer,2014-2018,Male and Female,411.9,3441,495036
+California,San Mateo County,All Types of Cancer,2014-2018,Male and Female,412.3,18899,3827747
+California,San Joaquin County,All Types of Cancer,2014-2018,Male and Female,413.4,15231,3662446
+California,San Diego County,All Types of Cancer,2014-2018,Male and Female,418.7,73774,16490914
+California,Contra Costa County,All Types of Cancer,2014-2018,Male and Female,419.7,27969,5666603
+California,Plumas County,All Types of Cancer,2014-2018,Male and Female,420.1,684,93115
+California,Stanislaus County,All Types of Cancer,2014-2018,Male and Female,420.6,11518,2693324
+California,Ventura County,All Types of Cancer,2014-2018,Male and Female,421.6,20496,4232608
+California,Napa County,All Types of Cancer,2014-2018,Male and Female,421.7,3904,700774
+California,Sacramento County,All Types of Cancer,2014-2018,Male and Female,425.8,34736,7545625
+California,Trinity County,All Types of Cancer,2014-2018,Male and Female,427.4,467,64343
+California,Humboldt County,All Types of Cancer,2014-2018,Male and Female,427.6,3631,678637
+California,Solano County,All Types of Cancer,2014-2018,Male and Female,428.5,10932,2190509
+California,Santa Cruz County,All Types of Cancer,2014-2018,Male and Female,428.6,6864,1367457
+California,Sonoma County,All Types of Cancer,2014-2018,Male and Female,429.7,14395,2503082
+California,Mendocino County,All Types of Cancer,2014-2018,Male and Female,432.2,2677,436594
+California,Inyo County,All Types of Cancer,2014-2018,Male and Female,433,593,90136
+California,El Dorado County,All Types of Cancer,2014-2018,Male and Female,434.4,5865,933078
+California,Santa Barbara County,All Types of Cancer,2014-2018,Male and Female,438.4,10716,2216692
+California,San Luis Obispo County,All Types of Cancer,2014-2018,Male and Female,442.7,8373,1405942
+California,Amador County,All Types of Cancer,2014-2018,Male and Female,443.8,1475,189120
+California,Lake County,All Types of Cancer,2014-2018,Male and Female,451.2,2185,320635
+California,Marin County,All Types of Cancer,2014-2018,Male and Female,451.5,8692,1301248
+California,Placer County,All Types of Cancer,2014-2018,Male and Female,452.7,11524,1898446
+California,Yuba County,All Types of Cancer,2014-2018,Male and Female,456.8,1688,376665
+California,Butte County,All Types of Cancer,2014-2018,Male and Female,471.1,6767,1133413
+California,Tehama County,All Types of Cancer,2014-2018,Male and Female,479.1,2068,317277
+California,Shasta County,All Types of Cancer,2014-2018,Male and Female,490.2,6151,894822
+California,Glenn County,All Types of Cancer,2014-2018,Male and Female,493.9,807,139317
