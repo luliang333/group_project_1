@@ -8,9 +8,9 @@ Is there a relationship between where you live and rate of new cancer cases?
 
 * Finish poverty rate vs. cancer rate in each county in California notebook
 * Based on test results, write our alternate and null hypothesis
-* Create presentation PPT
-* Decide who will be responsible for presenting which parts
-* Write script
+* DK create presentation PPT and present introduction/conclusion
+* RR will present latitude, NT will present longtitude, L will present poverty
+* Write scripts you have 2.5 minutes each
 
 #### The areas we will look at are:
 
@@ -20,7 +20,7 @@ Is there a relationship between where you live and rate of new cancer cases?
 2. Location (lat) vs. cancer rate
 	- Lower 48 states
 
-3. Poverty rate vs. cancer rate in each county in California
+3. Poverty rate vs. cancer rate in each State
 
 #### The sources we will use are:
 
